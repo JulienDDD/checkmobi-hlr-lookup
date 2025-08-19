@@ -27,7 +27,7 @@ Exemple de statuts :
 1. Cloner le projet :
 
 ```bash
-git clone https://github.com/TON-USER/checkmobi-hlr-lookup.git
+git clone https://github.com/JulienDDD/checkmobi-hlr-lookup.git
 cd checkmobi-hlr-lookup
 
 python -m venv venv
